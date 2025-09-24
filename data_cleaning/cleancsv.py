@@ -24,4 +24,5 @@ with open(dirtyFilePath, newline='', encoding='utf-8') as dirtyFile, \
         if not wacky_pattern.search(joined_row):
             writer.writerow(row)
 
-#This script did not work :(
+
+#This script did not work :( DONT USE IT, I just kept it because I can :)
